@@ -19,4 +19,6 @@ Update the Copyright ...from static to dynamic
 1513
 Upadted the Welcome message
 tested
-Reviewd the Route pattern in startup.cs
+Reviewed the Route pattern in startup.cs
+
+Created Github repository
