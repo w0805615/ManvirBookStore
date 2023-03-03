@@ -15,6 +15,7 @@ Tested the app...everything OK
 Actions Items:
 Modify the navigation
 Update the Copyright ...from static to dynamic
+make repository -public
 
 1513
 Upadted the Welcome message
@@ -22,3 +23,7 @@ tested
 Reviewed the Route pattern in startup.cs
 
 Created Github repository
+
+2023-03-03
+1515
+Test the app...
