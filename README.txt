@@ -27,3 +27,6 @@ Created Github repository
 2023-03-03
 1515
 Test the app...
+
+1525
+Created a README.md file in the github and pulled it to the VS2019
