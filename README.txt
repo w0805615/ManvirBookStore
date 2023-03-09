@@ -62,3 +62,6 @@ which is currently empty because I havent created the database yet.
 1505
 Almost Done
 just need to make my repository public from private
+
+1539
+Added additonal css and scripts links in the layout.cshtml
