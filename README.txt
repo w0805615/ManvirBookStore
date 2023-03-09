@@ -37,3 +37,16 @@ Choosed a Darkly theme from the bootswatch.com
 Renamed the older bootstrap file 
 Added new bootstrap.css in 
 Lib > bootstrap > dist > css > bootstrap.css
+
+Made changes in _Layout.cshtml
+renamed bootstrap.min.css to bootstrap.css
+nav class from navbar-light to navbar-dark to bg-primary
+Line 23 remove text dark
+added text-white-50 bg-primary to the footer
+
+Now in _LoginPartial.cshtml
+removed text-dark
+
+1429
+Tested the app 
+It worked!
