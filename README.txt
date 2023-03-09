@@ -53,3 +53,12 @@ It worked!
 
 1451
 Added a live date in the footer of the layout.cshtml page
+
+1455
+Modified a navigation 
+at the place of home nav I added a Books link
+which is currently empty because I havent created the database yet.
+
+1505
+Almost Done
+just need to make my repository public from private
