@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
     <link rel="stylesheet" href="~/css/site.css" />
 </head>
-<body>
+<body>     <!--Updated elements according to the instructions in the assignment2 slides-->
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-primary border-bottom box-shadow mb-3">
             <div class="container">
@@ -20,7 +20,7 @@
                     <partial name="_LoginPartial" />
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="">Books</a>
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="">Books</a>   <!--Updated navigation-->
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
@@ -36,7 +36,7 @@
         </main>
     </div>
 
-    <footer class="border-top footer text-white-50 bg-primary">
+    <footer class="border-top footer text-white-50 bg-primary">      <!--Updated footer acc. to the instructions-->
         <div class="container">
             &copy; @DateTime.Now.ToString("yyyy") - ManvirBookStore - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
