@@ -52,4 +52,4 @@ Tested the app
 It worked!
 
 1451
-Addded a live date in the footer of the layout.cshtml page
+Added a live date in the footer of the layout.cshtml page
