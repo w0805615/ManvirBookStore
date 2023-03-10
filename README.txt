@@ -71,3 +71,6 @@ Dropdown worked
 some of the attributes were missing that is why it didn't show up 
 But now everthing looks fine!
 Moving on to the next step!
+
+1519
+Added new projects
