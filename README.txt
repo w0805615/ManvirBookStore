@@ -65,3 +65,9 @@ just need to make my repository public from private
 
 1539
 Added additonal css and scripts links in the layout.cshtml
+
+1903
+Dropdown worked
+some of the attributes were missing that is why it didn't show up 
+But now everthing looks fine!
+Moving on to the next step!
