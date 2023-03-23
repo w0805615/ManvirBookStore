@@ -60,6 +60,7 @@ namespace ManvirBookStore
 
             app.UseEndpoints(endpoints =>
             {
+
                 endpoints.MapControllerRoute(
                     name: "default",
                     //Here is the default Route pattern
