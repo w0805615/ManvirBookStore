@@ -111,3 +111,11 @@ Updated Routes in Startup.cs
 pattern: "{area:Customer}/{controller=Home}/{action=Index}/{id?}");
 
 ERROR!! page is not responding
+
+Solved the ERROR:
+endpoints.MapAreaControllerRoute(
+        name: "defaultArea",
+        areaName: "Customer",
+        pattern: "{controller=Home}/{action=Index}/{id?}");
+
+1857 Everything looks GOOD!
