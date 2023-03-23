@@ -97,3 +97,9 @@ Updated the HomeController.cs
 
 Done for now!
 Continue Later!
+
+1816
+the error: The type or namespace name 'ApplicationDbContext' could not be found
+Solved!
+
+Successfully Run the Application
