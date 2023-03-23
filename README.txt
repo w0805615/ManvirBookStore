@@ -106,3 +106,5 @@ Successfully Run the Application
 
 1822
 Created new class in Utility project and added project References to utility project as well as Data Access
+Added new class Customer to the Areas folder
+Updated Routes in Startup.cs
