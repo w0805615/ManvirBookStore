@@ -80,3 +80,12 @@ Added new projects
 
 Continue!
 Moved the Data Folder and paste to .DataAccess project(Deleted the original)
+
+1521
+Install NuGet package
+- Identity.EntityFrameworkCore
+
+Modified namespace
+Deleted all default Class1.cs in all projects
+
+Moved Models to the ManvirBooks.Models project and deleted the original
