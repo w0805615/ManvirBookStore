@@ -74,3 +74,9 @@ Moving on to the next step!
 
 1519
 Added new projects
+
+2023-03-23
+1502
+
+Continue!
+Moved the Data Folder and paste to .DataAccess project(Deleted the original)
