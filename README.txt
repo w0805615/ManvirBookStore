@@ -89,3 +89,11 @@ Modified namespace
 Deleted all default Class1.cs in all projects
 
 Moved Models to the ManvirBooks.Models project and deleted the original
+
+1537
+Added project References
+Renamed Models folders to View Models
+Updated the HomeController.cs
+
+Done for now!
+Continue Later!
