@@ -63,7 +63,7 @@ namespace ManvirBookStore
                 endpoints.MapControllerRoute(
                     name: "default",
                     //Here is the default Route pattern
-                    pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{area:Customer}/{controller=Home}/{action=Index}/{id?}");
                 endpoints.MapRazorPages();
             });
         }

@@ -108,3 +108,6 @@ Successfully Run the Application
 Created new class in Utility project and added project References to utility project as well as Data Access
 Added new class Customer to the Areas folder
 Updated Routes in Startup.cs
+pattern: "{area:Customer}/{controller=Home}/{action=Index}/{id?}");
+
+ERROR!! page is not responding
