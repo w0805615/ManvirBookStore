@@ -119,3 +119,10 @@ endpoints.MapAreaControllerRoute(
         pattern: "{controller=Home}/{action=Index}/{id?}");
 
 1857 Everything looks GOOD!
+
+1904
+Added a new Admin area in Areas
+Added the proper view files and delete the Data and Models folder
+Deleted the controllers folder
+
+Assignment 2 Part 1 DONE!
