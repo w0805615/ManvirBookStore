@@ -139,3 +139,7 @@ Start!
 
 Updated the Database name in appsettings.json
 Database=ManvirBookStore
+
+Added migrations
+add-migration AddDefaultIdentityMigration (this is a wrong default project)
+New migration file name= ManvirBookStore.DataAccess
