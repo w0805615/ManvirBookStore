@@ -131,3 +131,11 @@ Added the proper view files and delete the Data and Models folder
 Deleted the controllers folder
 
 Assignment 2 Part 1 DONE!
+
+2023-03-24
+1505
+Assignment 2 Part 2 
+Start!
+
+Updated the Database name in appsettings.json
+Database=ManvirBookStore
