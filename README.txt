@@ -143,3 +143,9 @@ Database=ManvirBookStore
 Added migrations
 add-migration AddDefaultIdentityMigration (this is a wrong default project)
 New migration file name= ManvirBookStore.DataAccess
+
+1551
+ERROR!
+update-database
+Build failed
+
