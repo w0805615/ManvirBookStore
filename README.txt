@@ -149,3 +149,16 @@ ERROR!
 update-database
 Build failed
 
+2023-03-27
+1803
+Error Solved!
+by updating NuGet Packages
+
+Checked the tables in SQl Server ObjectExplorer
+
+1806
+Added new class Category class in Models, Modified
+Once again Run the migration and updated the database
+Reviewed Updataed database in SQl Server ObjectExplorer
+
+Everything Look fine!
