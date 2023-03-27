@@ -162,3 +162,9 @@ Once again Run the migration and updated the database
 Reviewed Updataed database in SQl Server ObjectExplorer
 
 Everything Look fine!
+
+1821
+Added New folders in ManvirBooks.DataAccess
+Repository > IRepository > IRepository.cs
+Added New class : Repository.cs
+Modifeid both the classes with the given instructions
