@@ -168,3 +168,12 @@ Added New folders in ManvirBooks.DataAccess
 Repository > IRepository > IRepository.cs
 Added New class : Repository.cs
 Modifeid both the classes with the given instructions
+
+2023-03-29
+1315
+Created the individual repositories for category:
+CategoryRepository.cs
+ICategoryRepository.cs
+Modified 
+Resolved Errors!
+
