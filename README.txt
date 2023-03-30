@@ -144,6 +144,10 @@ Added migrations
 add-migration AddDefaultIdentityMigration (this is a wrong default project)
 New migration file name= ManvirBookStore.DataAccess
 
+MIGRATION FILES:
+20230324192450_AddDefaultIdentityMigration.cs
+20230327220200_AddCategoryToDb.cs
+
 1551
 ERROR!
 update-database
@@ -176,4 +180,30 @@ CategoryRepository.cs
 ICategoryRepository.cs
 Modified 
 Resolved Errors!
+
+
+2023-03-30
+1703
+Added new Interface in IRepository folder
+-ISP_Call.cs
+installed Nuget packages for Dapper
+
+1730
+Implemented new class - SP_Call.cs in the Repository 
+Modified according to intructions
+Added using statements
+NO ERRORS!
+
+RUN THE PROJECT
+SUCCESSFULL!
+
+1803
+Added a new interface UnitOfWork
+Modified 
+
+1830
+Modified startup.cs in the ConfigurationServices method
+NO ERRORS
+PROJECT RUN!
+
 
